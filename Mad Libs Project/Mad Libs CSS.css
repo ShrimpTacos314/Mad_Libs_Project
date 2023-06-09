@@ -1,0 +1,71 @@
+body {
+    background-color: #1f1f40;
+
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+input {
+    background-color: #00000000;
+
+    border: 0px;
+    border-bottom: 2px dashed #ffffff;
+
+    color: #f0f0f0;
+    font-family: 'Rock Salt', cursive;
+    font-size: 20px;
+}
+
+button {
+    background-color: #e0e0e0;
+
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+
+#body {
+    margin: 20px;
+    border: 3px solid #e0e0e0;
+    padding: 20px;
+    
+    color: #e0e0e0;
+}
+
+#response-wrapper {
+    background-image: url(https://timvandevall.com/wp-content/uploads/2013/05/Lined-Paper-Template-20.jpg);
+    padding: 10px;
+    border-left: 20px dotted #1f1f40;
+    border-bottom: 5px dashed #1f1f40;
+
+    color: #000000;
+    font-family: 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+.title-text {
+    margin: 20px;
+    
+    text-align: center;
+    font-size: 75px;
+}
+
+.input-wrapper {
+    display: block;
+    margin: 5px;
+    
+    text-align: center;
+}
+
+.submit-wrapper {
+    display: block;
+    margin: 5px;
+    padding: 5px;
+
+    text-align: center;
+}
+
+.inputted-text {
+    border-bottom: 1px dashed #000000;
+    font-family: 'Rock Salt', cursive;
+}
+
